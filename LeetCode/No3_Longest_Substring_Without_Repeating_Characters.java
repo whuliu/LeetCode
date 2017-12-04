@@ -1,11 +1,9 @@
 import java.util.HashMap;
 
-import javax.swing.text.AbstractDocument.LeafElement;
-
 /**
- * Longest_Substring_Without_Repeating_Characters_3
+ * No_Longest_Substring_Without_Repeating_Characters
  */
-public class Longest_Substring_Without_Repeating_Characters_3 {
+public class No_Longest_Substring_Without_Repeating_Characters {
 
     public int lengthOfLongestSubstring(String s) {
         

@@ -1,7 +1,7 @@
 /**
- * Longest_Palindromic_Substring_5
+ * No5_Longest_Palindromic_Substring
  */
-public class Longest_Palindromic_Substring_5 {
+public class No5_Longest_Palindromic_Substring {
 
     //DP
     public String longestPalindrome(String s) {
