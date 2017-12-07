@@ -1,12 +1,9 @@
 # LeetCode
 
-The project will update all the problems from LeetCode！
+LeetCode Solution
+LeetCode题解
+计划囊括所有LeetCode的题解，目前主要有Java版本的题解，后期会陆续增加python等其他语言的版本，并且尽量在代码中提供相应的注释
 
-The rule of the file name is **_**_1,like Two_Sum_1.
-The last is the number of problem.
-
-此项目计划包括所有leetCode的题目解答
 文件的命名规则如下：
-**_**_1
-题目名称+题目原始编号
-用下划线隔开
+** No1_Two_Sum **
+题目在LeetCode上的编号+题目名称，并且用下划线分割
