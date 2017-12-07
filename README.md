@@ -10,6 +10,6 @@ LeetCode题解
 
 文件的命名规则如下：
 
-** No1_Two_Sum **
+**No1_Two_Sum**
 
 题目在LeetCode上的编号+题目名称，并且用下划线分割
